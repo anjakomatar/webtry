@@ -39,8 +39,6 @@
 
 <h1>Maths and Statistics Space at University of Leeds</h1>
 
-<!-- Placeholder for the image -->
-<img src="path-to-your-image-of-edward-boyle-library.jpg" alt="Inside of Edward Boyle Library at the University of Leeds">
 
 <!-- Section 1 -->
 <h2 id="section1">Section 1: [Title Here]</h2>
