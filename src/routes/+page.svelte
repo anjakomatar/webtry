@@ -1,68 +1,33 @@
+<header>
+  <h1>Maths and Statistics Space at University of Leeds</h1>
+</header>
 
-<script>
-  // You can include any JS code if required here
-</script>
+<section id="introduction">
+  <h2>Welcome to the Maths and Statistics Space</h2>
+  <p>Located in the Edward Boyle Library, the Maths and Statistics Space at the University of Leeds is your go-to resource for all maths and statistics support. We’re dedicated to assisting students enhance their mathematical and statistical skills, offering a conducive environment for learning and study.</p>
+  <p>This support centre is equipped with modern resources and staffed by experienced tutors ready to assist with a wide range of topics, from basic mathematical concepts to advanced statistical applications.</p>
+</section>
 
-<style>
-  /* Responsive styling */
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
+<section id="services">
+  <h2>Our Services</h2>
+  <p>The Maths and Statistics Space is here to provide tailored support to all students. Whether you’re tackling first-year maths courses or grappling with complex statistical analyses in your final year project, our team is here to assist you. We offer one-on-one consultations, group workshops, and a range of online resources.</p>
+  <p>Our workshops cover a diverse array of topics and are designed to supplement your academic learning while enhancing your problem-solving skills.</p>
+</section>
 
-  nav {
-    background-color: #eee;
-    padding: 10px;
-  }
+<section id="resources">
+  <h2>Resources</h2>
+  <p>We offer a wealth of online and physical resources to aid in your learning journey. Our online platform features tutorials, practice problems, and comprehensive solutions to help you master mathematical and statistical concepts at your own pace.</p>
+  <p>The physical space in the Edward Boyle Library is a welcoming environment, with designated areas for collaborative learning, individual study, and scheduled workshops.</p>
+</section>
 
-  nav a {
-    margin-right: 20px;
-    text-decoration: none;
-    color: black;
-  }
+<section id="community">
+  <h2>Join Our Community</h2>
+  <p>Engaging with the Maths and Statistics Space connects you to a community of peers, tutors, and alumni. Participate in interactive workshops, join study groups, or take advantage of networking events to build relationships and enhance your learning experience.</p>
+  <p>Keep an eye on our calendar for upcoming events, workshops, and community engagements.</p>
+</section>
 
-  img {
-    float: right;
-    max-width: 600px;
-    margin-left: 20px;
-  }
-</style>
-
-<nav>
-  <a href="#section1">Section 1</a>
-  <a href="#section2">Section 2</a>
-  <a href="#section3">Section 3</a>
-  <a href="#section4">Section 4</a>
-  <a href="#section5">Section 5</a>
-</nav>
-
-<h1>Maths and Statistics Space at University of Leeds</h1>
-
-
-<!-- Section 1 -->
-<h2 id="section1">Section 1: [Title Here]</h2>
-<p>Lorem ipsum text about the Maths and Statistics Space at the University of Leeds.</p>
-<p>More details...</p>
-
-<!-- Section 2 -->
-<h2 id="section2">Section 2: [Title Here]</h2>
-<p>Lorem ipsum text about the Maths and Statistics Space at the University of Leeds.</p>
-<p>More details...</p>
-
-<!-- Section 3 -->
-<h2 id="section3">Section 3: [Title Here]</h2>
-<p>Lorem ipsum text about the Maths and Statistics Space at the University of Leeds.</p>
-<p>More details...</p>
-
-<!-- Section 4 -->
-<h2 id="section4">Section 4: [Title Here]</h2>
-<p>Lorem ipsum text about the Maths and Statistics Space at the University of Leeds.</p>
-<p>More details...</p>
-
-<!-- Section 5 -->
-<h2 id="section5">Section 5: [Title Here]</h2>
-<p>Lorem ipsum text about the Maths and Statistics Space at the University of Leeds.</p>
-<p>More details...</p>
-
-<figcaption>Inside of Edward Boyle Library at the University of Leeds</figcaption>
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>We invite you to explore the services and resources offered at the Maths and Statistics Space. Visit us in the Edward Boyle Library, or reach out via email or phone to schedule a consultation or register for workshops.</p>
+  <p>We are committed to supporting your academic journey, ensuring you’re equipped to navigate the mathematical and statistical challenges encountered in your coursework and research.</p>
+</section>
