@@ -1,3 +1,7 @@
+<nav>
+	<a href="/">home</a>
+	<a href="/FAQ">FAQ</a>
+</nav>
 
 <header>
   <h1>Maths and Statistics Space at University of Leeds</h1>
